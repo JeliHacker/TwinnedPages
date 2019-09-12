@@ -12,10 +12,16 @@ a{
     text-decoration: none;
 }
 
+
 a:hover {
     color: darkgray;
     font-size: 150%;
     text-align: justify;
+    text-decoration: underline;
+}
+
+h1{
+    text-shadow: 2px 2px grey;
 }
 
 tr {
@@ -25,5 +31,6 @@ tr {
 td {
     font-size: 35px;
     line-height: 200%;
+     padding:5px 
 }
 
